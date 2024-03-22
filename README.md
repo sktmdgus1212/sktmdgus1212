@@ -24,6 +24,13 @@
 
 <br/>
 
+<h3 align="center">😊 Experiences 😊</h3>
+<p align="center">
+  <strong>서울시립대학교 컴퓨터과학부 (2018.03 ~ )</strong> <br/>
+  <strong>IT 연합동아리 코테이토 (2022.02 ~ 2022.08)</strong> <br/>
+  <strong>창업동아리 토끼발 (2023.03 ~ 2023.12)</strong> <br/>
+  <strong>교내 커뮤니티 서비스 시대생 (2023.09 ~ )</strong> <br/>
+</p>
 
 <h3 align="center">👋 Follow Me 👋</h3>
 <p align="center">
