@@ -31,7 +31,14 @@
   <strong>창업동아리 토끼발 (2023.03 ~ 2023.12)</strong> <br/>
   <strong>교내 커뮤니티 서비스 시대생 (2023.09 ~ )</strong> <br/>
 </p>
-
+<br/>
+<h3 align="center">🔥 Final Voca 🔥</h3>
+<p align="center">
+  <strong>철저한 계획</strong> <br/>
+  <strong>소통</strong> <br/>
+  <strong>의지</strong> <br/>
+</p>
+<br/>
 <h3 align="center">👋 Follow Me 👋</h3>
 <p align="center">
   <a href="mailto:naingyu4001@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=daekyeongp96@gmail.com"/></a>&nbsp
