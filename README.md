@@ -1,5 +1,5 @@
 
-<h3 align="center">Hi! I'm InGyu 👋</h3>
+<h3 align="center">Hi!! I'm InGyu 👋</h3>
 <br/>
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
